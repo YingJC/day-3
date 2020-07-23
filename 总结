@@ -1,0 +1,20 @@
+分支结构是程序中最基本的结构，所有程序都是一条一条语句的顺寻执行
+在python中，要构造分支结构可以使用if,elif和else
+
+if 条件:
+  print()
+  
+if 条件：
+ print()
+elif 条件：
+ print（）
+ 
+ if 条件：
+  print()
+ elif 条件：
+  print()
+ else 条件：
+   print()
+   
+   
+ 
